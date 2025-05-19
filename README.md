@@ -17,7 +17,6 @@
 
 - Power BI • Python (pandas, matplotlib) • R  
 - Public Health Data • Epidemiological Indicators • Data Cleaning  
-- Git • GitHub • Data Visualization • Digital Health
 
 ---
 
