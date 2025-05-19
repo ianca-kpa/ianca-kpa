@@ -16,7 +16,8 @@ I'm especially interested in open data, digital epidemiology, and building impac
 
 ## 🔬 Projects
 
-- [🧬 Finding Hidden Messages in DNA – Bioinformatics I (Python)](https://github.com/ianca-kpa/finding-hidden-messages-dna-bioinformatics-i)  
+- - [🧬 Bioinformatics – Coursera Series (UC San Diego)](https://github.com/ianca-kpa/bioinformatics-coursera-series)  
+  *Finding Hidden Messages in DNA & Genome Sequencing – Python + Jupyter*   
 - [🦠 Chagas Disease Notification Analysis (Power BI + SINAN – 2009)](https://github.com/ianca-kpa/powerbi-Chagas-Disease-Sinan-2009)  
 - [🤰 Birth Analysis – Rio Grande do Norte 2020 (Power BI + SINASC)](https://github.com/ianca-kpa/powerbi-sinasc-birth-analysis-RN)
 
