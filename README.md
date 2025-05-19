@@ -16,8 +16,8 @@ I'm especially interested in open data, digital epidemiology, and building impac
 
 ## 🔬 Projects
 
-- [Chagas Disease Notification Analysis (Power BI + SINAN)] (https://github.com/ianca-kpa/powerbi-Chagas-Disease-Sinan-2009)
-- [Birth Analysis – Rio Grande do Norte 2020 (Power BI + SINASC)] (https://github.com/ianca-kpa/powerbi-sinasc-birth-analysis-RN)
+- [Chagas Disease Notification Analysis (Power BI + SINAN)](https://github.com/ianca-kpa/powerbi-Chagas-Disease-Sinan-2009)
+- [Birth Analysis – Rio Grande do Norte 2020 (Power BI + SINASC)](https://github.com/ianca-kpa/powerbi-sinasc-birth-analysis-RN)
 
 ---
 
