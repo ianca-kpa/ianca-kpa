@@ -48,7 +48,7 @@ I'm especially interested in open data, digital epidemiology, and building impac
 
 ## 🌍 Languages
 
-🇧🇷 Portuguese (native)  
-🇬🇧 English (advanced)  
-🇫🇷 French (B2)
+PT-BR Portuguese (native)  
+EN English (advanced)  
+FR French (B2)
 
