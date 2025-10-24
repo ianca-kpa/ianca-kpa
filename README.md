@@ -27,7 +27,7 @@ I'm especially interested in open data, digital epidemiology, and building impac
 
 ## 📌 Skills
 
-- Power BI • Python (pandas, matplotlib) • R  
+- Power BI • Python (pandas, matplotlib) • R  • Bash
 - Public Health Data • Epidemiological Indicators • Data Cleaning  
 
 ---
