@@ -1,9 +1,9 @@
 # 👩‍💻 Ianca K. P. de Albuquerque
 
-🎓 Biomedical Scientist | 📊 Junior Data Analyst
-🧬 Master 2 | Sciences du Vivant - Parcours Bio-informatique et Biologie Computationnelle (Université Côte d'Azur) - *Current Student*
-💡 Specialization in Data Science & Digital Health (UFPE)  
-📍 Based in Nice, France | Open to remote opportunities in Brazil and Europe
+- 🎓 Biomedical Scientist | 📊 Junior Data Analyst
+- 🧬 Master 2 | Sciences du Vivant - Parcours Bio-informatique et Biologie Computationnelle (Université Côte d'Azur) - *Current Student*
+- 💡 Specialization in Data Science & Digital Health (UFPE)  
+- 📍 Based in Nice, France | Open to remote opportunities in Brazil and Europe
 
 ---
 
