@@ -35,6 +35,7 @@ I'm especially interested in open data, omics technologies, digital epidemiology
 
 ## 🎓 Academic Background
 
+- 🧬 Master 2 | Sciences du Vivant - Parcours Bio-informatique et Biologie Computationnelle (Université Côte d'Azur)
 - 🎓 **PhD in Tropical Medicine** – Federal University of Pernambuco (UFPE), Brazil  
 - 🧠 **Specialization in Data Science & Digital Health** – UFPE, Brazil  
 - 🔬 **Master's in Fungal Biology** – UFPE, Brazil  
