@@ -1,6 +1,7 @@
 # 👩‍💻 Ianca K. P. de Albuquerque
 
-🎓 Biomedical Scientist | 📊 Junior Data Analyst  
+🎓 Biomedical Scientist | 📊 Junior Data Analyst
+🧬 Master 2 | Sciences du Vivant - Parcours Bio-informatique et Biologie Computationnelle (Université Côte d'Azur) - *Current Student*
 💡 Specialization in Data Science & Digital Health (UFPE)  
 📍 Based in Nice, France | Open to remote opportunities in Brazil and Europe
 
@@ -10,7 +11,7 @@
 
 I'm a biomedical scientist with a strong academic background and a growing passion for data science applied to public health.  
 After earning a PhD in Tropical Medicine, I specialized in Digital Health and Data Science to combine analytical thinking with my experience in healthcare.  
-I'm especially interested in open data, digital epidemiology, and building impactful tools using health information systems.
+I'm especially interested in open data, omics technologies, digital epidemiology, and building impactful tools using health information systems.
 
 ---
 
