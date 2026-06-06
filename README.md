@@ -9,10 +9,7 @@
 
 ## 🌱 About me
 
-I'm a biomedical scientist with a strong background in microbiology and biomedical research, currently transitioning into bioinformatics and omics data analysis. 
-After earning a PhD in Tropical Medicine, I expanded my focus toward computational biology, reproducible data analysis, and health-related data science.
- 
-I'm especially interested in open data, omics technologies, digital epidemiology, and building impactful tools using health information systems.
+I am a biomedical scientist and PhD in Tropical Medicine currently completing a Master 2 in Bioinformatics and Computational Biology in France. My current work focuses on LC-MS/MS metabolomics data analysis, R-based workflow development, statistical analysis, data visualization, and Shiny applications for biological data exploration.
 
 ---
 
