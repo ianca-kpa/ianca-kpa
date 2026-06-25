@@ -1,7 +1,7 @@
 # 👩‍💻 Ianca K. P. de Albuquerque
 
 - Bioinformatics & Omics Data Analyst | PhD in Tropical Medicine | R/Python
-- 🧬 Master 2 | Sciences du Vivant - Parcours Bio-informatique et Biologie Computationnelle (Université Côte d'Azur) - *Current Student*
+- 🧬 Master 2 | Sciences du Vivant - Parcours Bio-informatique et Biologie Computationnelle (Université Côte d'Azur)
 - 💡 Specialization in Data Science & Digital Health (UFPE)  
 - 📍 Based in Nice, France | Open to remote opportunities
 
