@@ -1,6 +1,6 @@
 # 👩‍💻 Ianca K. P. de Albuquerque
+Bioinformatics | Omics Data Analysis | R & Shiny | Reproducible Scientific Workflows
 
-- Bioinformatics & Omics Data Analyst | PhD in Tropical Medicine | R/Python
 - 🧬 Master 2 | Sciences du Vivant - Parcours Bio-informatique et Biologie Computationnelle (Université Côte d'Azur)
 - 💡 Specialization in Data Science & Digital Health (UFPE)  
 - 📍 Based in Nice, France | Open to remote opportunities
@@ -9,16 +9,20 @@
 
 ## 🌱 About me
 
-I am a biomedical scientist and PhD in Tropical Medicine currently completing a Master 2 in Bioinformatics and Computational Biology in France. My current work focuses on LC-MS/MS metabolomics data analysis, R-based workflow development, statistical analysis, data visualization, and Shiny applications for biological data exploration.
+I am a biomedical scientist and bioinformatician with a PhD in Tropical Medicine and a Master 2 in Bioinformatics and Computational Biology from Université Côte d'Azur.
+My background combines experimental life sciences with computational data analysis. After several years working in microbiology, medical mycology and antifungal research, I progressively moved toward bioinformatics and data-driven research.
+My recent work focuses on untargeted LC–MS/MS metabolomics, R-based workflow development, statistical analysis, quality control, normalization, scientific visualization and interactive data exploration with Shiny.
+I am particularly interested in bioinformatics, omics data analysis, biological and health data, and reproducible computational approaches for research.
 
 ---
 
 ## 🔬 Featured Projects
 
 ### [Compound Discoverer Refinement and Metabolomics Pipeline](https://github.com/ianca-kpa/compound-discoverer-metabolomics-pipeline-in-R)
-*R • Shiny • Metabolomics • Data Visualization • Statistical Analysis*
+*R • Shiny • Metabolomics • Data Visualization • Statistical Analysis • Reproducible Workflows* 
 
-Modular pipeline for untargeted metabolomics data processing, including quality control, normalization, statistical analysis, visualization, and automated exports through an interactive Shiny interface.
+A modular R/Shiny workflow developed for the refinement and analysis of untargeted LC–MS/MS metabolomics data exported from Compound Discoverer.
+The workflow includes data curation, quality control, normalization, statistical analysis, PCA, volcano plots, heatmaps, automated exports and interactive data exploration.
 
 ---
 
@@ -30,7 +34,7 @@ Practical bioinformatics projects developed during the UC San Diego Bioinformati
 ---
 
 ### [Chagas Disease Notification Analysis (SINAN 2009)](https://github.com/ianca-kpa/powerbi-Chagas-Disease-Sinan-2009)
-*Power BI • Public Health Data Analysis*
+*Power BI • Public Health Data Analysis • Data Visualization*
 
 Exploratory analysis and visualization of Chagas disease notification data from the Brazilian SINAN public health database.
 
@@ -43,10 +47,16 @@ Data analysis and visualization project using Brazilian public birth registry da
   
 ---
 
-## 📌 Skills
+## 📌 Tools & Areas
 
-- Power BI • Python • R  • Bash
-- Public Health Data • Epidemiological Indicators • Data Cleaning  
+### Programming & development
+*R • Python • Shiny • Git/GitHub • basic Docker*
+
+### Data analysis
+*Data processing • Quality control • Normalization • Statistical testing • FDR correction • PCA • Heatmaps • Volcano plots*
+
+### Scientific areas
+*Bioinformatics • Computational biology • Metabolomics • Omics data analysis • Microbiology • Medical mycology • Health data*
 
 ---
 
